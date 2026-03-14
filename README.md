@@ -64,5 +64,3 @@ these visuals help understand potential market expansion opportunities and resta
 - mid-range pricing attracts higher demand compared to premium pricing
 - specific cuisines show higher projected demand
 - most restaurants fall within the mid-revenue category
-
-## project structure
